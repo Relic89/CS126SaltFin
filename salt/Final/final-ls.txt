@@ -1,0 +1,5 @@
+total 19
+drwxr-xr-x.  4 root  root   1024 Mar 17 23:41 .
+dr-xr-xr-x. 18 root  root   4096 Mar 16 00:06 ..
+drwx------.  2 root  root  12288 Mar 17 23:36 lost+found
+drwx------.  9 Steph Steph  1024 Mar 17 23:47 Steph

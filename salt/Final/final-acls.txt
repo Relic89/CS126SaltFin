@@ -1,0 +1,83 @@
+# file: var/www/html
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+default:user::rwx
+default:user:apache:rwx
+default:group::r-x
+default:group:apache:rwx
+default:mask::rwx
+default:other::r-x
+
+# file: var/www/html/CS126Final
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: var/www/html/CS126Final/repodata
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: var/www/html/CS126Final/repodata/01a3b489a465bcac22a43492163df43451dc6ce47d27f66de289756b91635523-filelists.sqlite.bz2
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: var/www/html/CS126Final/repodata/6bf9672d0862e8ef8b8ff05a2fd0208a922b1f5978e6589d87944c88259cb670-other.xml.gz
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: var/www/html/CS126Final/repodata/dabe2ce5481d23de1f4f52bdcfee0f9af98316c9e0de2ce8123adeefa0dd08b9-primary.xml.gz
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: var/www/html/CS126Final/repodata/5dc1e6e73c84803f059bb3065e684e56adfc289a7e398946574d79dac6643945-primary.sqlite.bz2
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: var/www/html/CS126Final/repodata/7c36572015e075add2b38b900837bcdbb8a504130ddff49b2351a7fc0affa3d4-other.sqlite.bz2
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: var/www/html/CS126Final/repodata/repomd.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: var/www/html/CS126Final/repodata/401dc19bda88c82c403423fb835844d64345f7e95f5b9835888189c03834cc93-filelists.xml.gz
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: var/www/html/lost+found
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+

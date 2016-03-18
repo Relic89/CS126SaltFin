@@ -1,0 +1,5 @@
+  LV       VG         Attr       LSize    Pool Origin Data%  Meta%  Move Log Cpy%Sync Convert
+  LogVol00 VolGroup00 -wi-ao----    7.26g                                                    
+  LogVol01 VolGroup00 -wi-ao----  512.00m                                                    
+  lvcrypt  vgcrypt    -wi-ao----  508.00m                                                    
+  lvhttpd  vghttpd    -wi-ao---- 1016.00m                                                    
